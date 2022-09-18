@@ -1,3 +1,9 @@
+package src.main.java;
+
+import src.main.java.Db;
+import src.main.java.DbSetting;
+import src.main.java.MyEntity;
+
 import java.util.UUID;
 
 public class MyService {
